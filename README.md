@@ -19,3 +19,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?user=Dxcraig&theme=dracula) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dxcraig)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dxcraig)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxcraig&layout=compact&langs_count=10&count-private=true)](https://github.com/Dxcraig)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dxcraig)
+[![Stephen's Stat](https://github-readme-stats.vercel.app/api?username=Dxcraig&show_icons=true)](https://github.com/Dxcraig) 
+&nbsp;&nbsp;&nbsp;
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=Dxcraig)
