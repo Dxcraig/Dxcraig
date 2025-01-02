@@ -2,8 +2,8 @@
 ![Header](./octocat.png)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Austin</h1> 
-<h3 align="center">I'm a Front-end Developer.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Stephen</h1> 
+<h3 align="center">I'm a Backend Developer.</h3>
 <br>
 <!--
 **Dxcraig/Dxcraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
