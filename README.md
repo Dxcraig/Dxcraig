@@ -11,16 +11,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&color=white&size=36&width=800&duration=6969&lines=I'm+learning+to+become+a+Backend+Developer!;I'm+also+interested+in+Software+Engineering;I'm+looking+forward+to+Cybersecurity+also;Based+in+Ghana,+Legon;)](https://git.io/typing-svg)
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
+📖 **Self-directed learning** has seamlessly woven into the fabric of my life. It didn't take long for me to realize that GitHub is the ideal platform to chronicle my transformation from a technophobe to a technophile. It serves as my open learning journal, where I can capture notes and references as I delve into new technical domains. Moreover, it allows me to share these resources with fellow learners who might also find them valuable.
 
-<h3 align="center">A passionate Backend developer</h3>
+- 🔭 I’m currently working on ... Continuous improvement of my development skills!
+- 🌱 I’m currently learning ... Cloud and DevOps tools and pipelines!
+- 👯 I’m looking to collaborate on ... any projects!
+- 💬 Ask me about ... Anything Personal it's okay by me!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dxcraig" alt="dxcraig" /></a> </p>
 
-- 🌱 I’m currently learning **react, react native, kotlin**
-
-- 📫 How to reach me **steviedoe20@gmail.com**
-
-- ⚡ Fun fact **I also want to become a software engineer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
