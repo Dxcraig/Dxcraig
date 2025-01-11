@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stephen</h1>
+# STEPHEN EDEM KWAME DOE-LAWSON
 <h3 align="center">A passionate Backend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dxcraig" alt="dxcraig" /></a> </p>
