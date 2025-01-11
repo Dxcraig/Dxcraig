@@ -2,6 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dxcraig&label=Profile%20views&color=0e75b6&style=flat" alt="Dxcraig" /> </p>
 
+# Hi there! Welcome to my GitHub Profile! ✨
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
+</div>
+
+
 
 <h3 align="center">A passionate Backend developer</h3>
 
