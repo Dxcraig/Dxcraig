@@ -31,6 +31,6 @@ Here are some technologies I'm still learning.
 # 📊 GitHub Stats:
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dxcraig&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Dxcraig" /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dxcraig&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> -->
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dxcraig&show_icons=true&locale=en&theme=tokyonight" alt="Dxcraig" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dxcraig&&theme=tokyonight" alt="Dxcraig" /></p>
