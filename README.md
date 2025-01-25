@@ -27,9 +27,6 @@ Here are some technologies I'm still learning.
 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white)
 
-
-
-
 # 📊 GitHub Stats:
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dxcraig&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Dxcraig" /></p>
 
